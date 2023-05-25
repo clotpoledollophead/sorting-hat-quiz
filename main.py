@@ -184,7 +184,7 @@ def play_music(track_number):
     pygame.mixer.music.load(sound_effects[track_number])  # Set path to music file
     if track_number >= 6:
         pygame.mixer.music.play(0)  # Set 0 to play the music once; to NOT loop
-        time.sleep(3) # Delay to play the mp3 file
+        time.sleep(4) # Delay to play the mp3 file
     else:
         pygame.mixer.music.play(-1)  # Set -1 to loop the music indefinitely
 
