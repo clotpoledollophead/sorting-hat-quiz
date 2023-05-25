@@ -33,7 +33,7 @@ The program uses the following additional files:
 
 ## License
 
-This program is licensed under the MIT License. You can find the license file [here](/LICENSE.txt).
+This program is licensed under the MIT License. You can find the license file [here](/LICENSE).
 
 ## Acknowledgements
 
